@@ -1,7 +1,7 @@
 <h1 align="center">zhartriad</h1>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTR0ZXR3bzUxenJxOXF4em5lY3I4eHlocGU2MTN2cDJtNjl3bHk0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PZrjGkr334fXa/giphy.gif" width="600">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGl5YXo3d2NzdnI4cTR4NHhmOXpuOGxjYjBhYzFkeXZjaW0ycTNlaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6VtMfSLqPIBABxbcRa/giphy.gif" width="600">
 </p>
 
 ## 🧠 About
