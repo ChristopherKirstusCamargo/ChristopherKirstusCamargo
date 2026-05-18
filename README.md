@@ -33,5 +33,5 @@
 </p>
 
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/linus-torvalds-gif-8862620693042076289" width="600">
+  <div class="tenor-gif-embed" data-postid="8862620693042076289" data-share-method="host" data-aspect-ratio="1.80435" data-width="100%"><a href="https://tenor.com/view/linus-torvalds-gif-8862620693042076289">Linus Torvalds GIF</a>from <a href="https://tenor.com/search/linus+torvalds-gifs">Linus Torvalds GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
