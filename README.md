@@ -1,9 +1,5 @@
 <h1 align="center">ChristopherKC</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGl5YXo3d2NzdnI4cTR4NHhmOXpuOGxjYjBhYzFkeXZjaW0ycTNlaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6VtMfSLqPIBABxbcRa/giphy.gif" width="600">
-</p>
-
 ## 🧠 About
 
 - 18 years old, Brazil  
@@ -22,11 +18,6 @@
 
 ---
 
-## 🧩 Languages
-
-- Rust (main focus)  
-- Exploring low-level control and system behavior  
-
 ---
 
 ## 🚧 Currently
@@ -39,4 +30,8 @@
 
 <p align="center">
   <em>"Knowledge without depth is illusion."</em>
+</p>
+
+<p align="center">
+  <img src="https://tenor.com/pt-BR/view/linus-torvalds-gif-8862620693042076289" width="600">
 </p>
