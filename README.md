@@ -1,7 +1,4 @@
 ## 🧠 About
-<p align="center">
-  <em>"Knowledge without depth is illusion."</em>
-</p>
 
 ---
 
@@ -30,4 +27,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDM2cjgzbWVsazE2cHVhZWxldjVwdW9lOXRzeWE5cWEwd2J1dmp0MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WTO8QA0mX2Cfw5vhkp/giphy.gif" alt="Cloudword" width="60%">
 </p>
 
+<p align="center">
+  <em>"Knowledge without depth is illusion."</em>
+</p>
 
