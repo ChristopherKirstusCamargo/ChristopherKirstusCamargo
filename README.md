@@ -11,17 +11,12 @@
 
 ## ⚙️ Fields of Interest
 
-- 🖥️ Computation (core focus)
-- 📐 Mathematics
-- ⚛️ Physics
-- 🧬 Biology
-- 🧠 Philosophy
+- 🖥️ Computation 
 
 ---
 
 ## 🚧 Currently
 
-- Improving Rust skills  
 - Studying systems more deeply  
 - Expanding knowledge across scientific fields  
 
