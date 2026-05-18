@@ -1,4 +1,4 @@
-<h1 align="center">zhartriad</h1>
+<h1 align="center">ChristopherKC</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGl5YXo3d2NzdnI4cTR4NHhmOXpuOGxjYjBhYzFkeXZjaW0ycTNlaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6VtMfSLqPIBABxbcRa/giphy.gif" width="600">
