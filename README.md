@@ -1,5 +1,11 @@
 ## 🧠 About
 
+<p align="center">
+  <img src="https://media.tenor.com/E87X8gA2Ym0AAAAC/linus-torvalds.gif" alt="Linus Torvalds" width="60%">
+</p>
+
+---
+
 - 18 years old, Brazil  
 - Focused on continuous improvement and deep understanding  
 - Interested in systems, performance, and low-level concepts  
@@ -16,8 +22,6 @@
 
 ---
 
----
-
 ## 🚧 Currently
 
 - Improving Rust skills  
@@ -30,6 +34,3 @@
   <em>"Knowledge without depth is illusion."</em>
 </p>
 
-<p align="center">
-  <img src="https://media.tenor.com/E87X8gA2Ym0AAAAC/linus-torvalds.gif" alt="Linus Torvalds" width="60%">
-</p>
