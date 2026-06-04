@@ -1,6 +1,6 @@
 ## 🧠 About
 
-- 18 years old, Brazil  
+- 19 years old, Brazil  
 - Focused on continuous improvement and deep understanding  
 - Interested in systems, performance, and low-level concepts  
 
